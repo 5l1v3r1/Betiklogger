@@ -1,2 +1,2 @@
-# PNGKeyLogger
-Py Teknolojilerini kullanan PNG'nin Python Keyloggerı :)
+# Betiklogger
+Py Teknolojilerini kullanan BetikSonu Python Keyloggerı :)
